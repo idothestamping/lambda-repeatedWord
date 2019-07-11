@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lambda-repeatedWord.iml" filepath="$PROJECT_DIR$/lambda-repeatedWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lambda-repeatedWord.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lambda-repeatedWord.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lambda-repeatedWord.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lambda-repeatedWord.test.iml" />
+    </modules>
+  </component>
+</project>
