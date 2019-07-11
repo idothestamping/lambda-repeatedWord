@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="lambda-repeatedWord.main" target="1.8" />
-      <module name="lambda-repeatedWord.test" target="1.8" />
-    </bytecodeTargetLevel>
-  </component>
-</project>
